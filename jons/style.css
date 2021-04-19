@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+  }
+  body {
+    width: 100%;
+    background-image: url("../images/greece.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
+.video-wrapper {
+    padding: 20px;
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+h1 {
+    font-size: 40px;
+    color: seashell;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding: 20px;
+    text-align: center;
+    margin: 0px auto;
+    display:block
+}
+  
