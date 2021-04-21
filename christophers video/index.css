@@ -1,0 +1,24 @@
+
+body{
+border-color: aliceblue; 
+font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    font-size: 40px;
+    color: rgb(255, 181, 181);
+text-align: center;}
+
+
+
+video{
+    padding: 25px;
+}
+
+.box-1{
+    background-color: rgb(160, 222, 190);
+    text-align: center;
+}
+body {
+    background-image: url('img/steven-kamenar-MMJx78V7xS8-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
